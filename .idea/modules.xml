@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FastAF.iml" filepath="$PROJECT_DIR$/FastAF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FastAF1/FastAF1.iml" filepath="$PROJECT_DIR$/FastAF1/FastAF1.iml" />
     </modules>
   </component>
 </project>
